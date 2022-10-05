@@ -1,0 +1,1 @@
+sending mail SMTP lib module which can be used to send emails to any internet machine
